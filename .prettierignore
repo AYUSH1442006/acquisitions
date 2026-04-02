@@ -1,3 +1,6 @@
 node_modules/
-package.json
+coverage/
+logs/
+drizzle/
+*.log
 package-lock.json
